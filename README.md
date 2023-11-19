@@ -13,6 +13,9 @@
   - ストレージ
   - マクロ
 
+### サンプル画像
+
+
 ## English
 This data pack proposes a high quality information display GUI by using the mechanism implemented in [Minecraft Snapshot 23w46a](https://www.minecraft.net/ja-jp/article/minecraft-snapshot-23w46a) to display arbitrary text on scoreboard numbers.
 
