@@ -1,4 +1,7 @@
 # 23w46a Sidebar Display Datapack
+### サンプル画像 / Sidebar Sample
+![image](https://github.com/KizahashiLuca/23w46a-Sidebar-Display/blob/image_sample/sidebar_sample.jpg?raw=true)
+
 ## 日本語説明
 このデータパックは [Minecraft Snapshot 23w46a](https://www.minecraft.net/ja-jp/article/minecraft-snapshot-23w46a) で実装された、スコアボードの数値に任意のテキストを表示する機構を使うことにより、高品位な情報表示GUIを提案するものです。
 
